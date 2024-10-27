@@ -46,7 +46,7 @@ export class selecttool{
 ai/desmos functionaltiy
 */
 //everyobkject need startdraw and enddraw
-//also passive shit
+//also passive
 //Line
 
 //Design
@@ -434,32 +434,6 @@ export class CircleObject{
 
 
 
-//Image
-export class ImageObject{
-
-    constructor(){
-        
-    }
-    update(){
-
-    }
-    mousedown(){
-
-    }
-    mouseup(set_current,set_items,items){
-
-    }
-    render(color,i,current,oref,trref){
-        
-    }
-    nextitem(){
-        
-    }
-    static nextitem(){
-
-    }
-
-}
 
 
 
@@ -535,32 +509,6 @@ export class TextObject{
 
 
 
-//Custom Shape
-export class CustomObject{
-
-    constructor(){
-        
-    }
-    update(){
-
-    }
-    mousedown(){
-
-    }
-    mouseup(){
-
-    }
-    render(){
-
-    }
-    nextitem(){
-        
-    }
-    static nextitem(){
-
-    }
-
-}
 
 
 export default LineObject

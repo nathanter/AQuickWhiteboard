@@ -50,7 +50,7 @@ function MainFunction() {
         </itemContext.Provider>
  
   */
-  //use context if you pass it again i stg
+  //use context
   
   function undologic(){
     var cur = actionarray[actionarray.length-1];

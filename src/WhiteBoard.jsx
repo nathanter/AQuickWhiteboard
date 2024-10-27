@@ -62,7 +62,7 @@ function WhiteBoard({currenttool,setcurrent,items,setitems,setactionarray,action
             console.log(actionarray)
             currentitem.mouseup(setcurrent,setitems,items)
             //setcurrent(currentitem)
-            //console.log(items)
+            // .log(items)
         
         
     }
